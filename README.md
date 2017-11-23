@@ -1,6 +1,7 @@
-# potentia-reborn
+# Potentia Reborn [1.12.2]
 Minecraft 1.12.2 modpack
-
+    
+    
 Potentia Reborn aims to improve on the original Potentia pack for 1.12 with over 20+ new mods!
 With a vast new array of mods, players can expect a much more refined pack, with some cool new mods that haven't been seen before!
  
