@@ -27,7 +27,7 @@ What actually happens?
 
 #### Additional Information:
 
-Can you upload a gif or image to show your issue? If yes, post it below (note: you can use Markdown formatting here).
+Can you upload a gif or image to show your issue? If yes, post it below (note: you can use Markdown formatting here). Use https://hastebin.com for upload crash logs.
 
 ____
 #### Versions:
